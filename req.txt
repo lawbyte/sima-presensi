@@ -1,0 +1,6 @@
+﻿DateTime==4.3
+pytz==2020.4
+schedule==0.6.0
+selenium==3.141.0
+urllib3==1.25.11
+zope.interface==5.2.0
