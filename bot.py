@@ -39,7 +39,6 @@ def print_logo():
 \t\t+------------------+
 \t\t+                  +
 \t\t+  SIMA BOT V.1.9  +
-\t\t+   USM The Best   +
 \t\t+                  +
 \t\t+------------------+
 """
